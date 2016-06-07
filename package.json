@@ -1,5 +1,5 @@
 {
-  "name": "winston",
+  "name": "@emmerge/winston",
   "description": "A multi-transport async logging library for Node.js",
   "version": "2.2.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
