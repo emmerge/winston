@@ -23,7 +23,7 @@
     "cycle": "1.0.x",
     "eyes": "0.1.x",
     "isstream": "0.1.x",
-    "pkginfo": "0.3.x",
+    "pkginfo": "0.4.x",
     "stack-trace": "0.0.x"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "std-mocks": "~1.0.0",
     "vows": "0.7.x"
   },
-  "main": "./lib/winston",
+  "main": "lib/winston.js",
   "scripts": {
     "test": "vows --spec --isolate"
   },
